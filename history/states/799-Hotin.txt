@@ -3,12 +3,12 @@ state={
 	name="STATE_799"
 
 	history={
-		owner = ROM
+		owner = RUS
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = ROM
+		add_core_of = MDA
 
 	}
 
