@@ -1,16 +1,17 @@
 state={
-	id=1153
-	name="STATE_1153"
-	
+	id=1149
+	name="STATE_1149"
+
 	history = {
 		owner = SIA
-		add_core_of = LAO
+		add_core_of = CAM
 	}
 
 	provinces={
-		1592 
+		12460 
 	}
-	manpower=125572
+	manpower=288914
 	buildings_max_level_factor=1.000
 	state_category = pastoral
+
 }
