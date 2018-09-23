@@ -1,0 +1,169 @@
+﻿l_english:
+######################################################################################
+######## Ideologies 
+######################################################################################
+## Fascist Regimes 
+ national_socialist:0 "National Socialist"
+ national_socialist_noun: "National Socialism"
+ national_socialist_desc: "Totalitarian Dictatorship"
+ 
+ fascist: "Fascist"
+ fascist_noun: "Fascism"
+ fascist_desc: "Totalitarian Dictatorship"
+ 
+ paternal_autocrat: "Paternal Autocrat"
+ paternal_autocrat_noun: "Paternal Autocracy"
+ paternal_autocrat_desc: "Autocratic Regime"
+## Democratic Regimes 
+ conservative: "Conservative"
+ conservative_noun: "Conservatism"
+ conservative_desc: "Democratic Regime"
+ 
+ liberal: "Liberal"
+ liberal_noun: "Liberalism"
+ liberal_desc: "Democratic Regime"
+ 
+ social_democrat: "Social Democrat"
+ social_democrat_noun: "Social Democratic"
+ social_democrat_desc: "Democratic Regime"
+## Communist Regimes 
+ socialist: "Socialist"
+ socialist_noun: "Socialism"
+ socialist_desc: "Proletaritarian Democratic Regime"
+ 
+ bolshevik_leninist: "Bolshevik-Leninist"
+ bolshevik_leninist_noun: "Bolshevik-Leninism"
+ bolshevik_leninist_desc: "Proletaritarian Dictatorship"
+ 
+ marxist_leninist: "Marxist-Leninist"
+ marxist_leninist_noun: "Marxist-Leninism"
+ marxist_leninist_desc: "Proletaritarian Dictatorship"
+ 
+ ###########################################
+ # Subideologies
+ ###########################################
+ # NatSoc
+ national_socialism:0 "National Socialism"
+ national_socialism_desc:0 "§GNational Socialism§! more commonly known as Nazism, is the ideology and set of practices associated with the 20th-century German Nazi Party, Nazi Germany and other far-right groups. Usually characterized as a form of fascism that incorporates scientific racism and antisemitism."
+ 
+ national_bolshevism: "National Bolshevism"
+ national_bolshevism_desc: "§GNational Bolshevism§! combines elements of radical nationalism and bolshevism. It is often anti-capitalist intone and sympathetic towards certain forms of socialism."
+ 
+ strasserism:0 "Strasserism"
+ strasserism_desc:0 "§GStrasserism§! was the strand of Nazism that called for a more radical, mass-action and worker-based form of Nazism, hostile to Jews not from a racial, ethnic, cultural or religious perspective, but from an anti-capitalist basis."
+ 
+ ultranationalism: "Ultranationalism"
+ ultranationalism_desc: "§GUltranationalism§! is the most extreme side of nationalism, essentially believing the nation state's strength and health is more important than anyone residing within it."
+ 
+ esoteric_national_socialism: "Esoteric National Socialism"
+ esoteric_national_socialism_desc: "§GEsoteric National Socialism§! is an umbrella term used to describe various mystical interpretations and adaptations of Nazism in the post-World War II period. After 1945, esoteric elements of the Third Reich were adapted into new völkisch religions of white nationalism and Neo-Nazism."
+ 
+ antisemitism: "Antisemitism"
+ antisemitism_desc: "§GAntisemitism§! bores special racial connotations and meant specifically prejudice against Jews."
+ 
+ antisemitism_fa: "Antisemitism"
+ antisemitism_fa_desc: "§GAntisemitism§! bores special racial connotations and meant specifically prejudice against Jews."
+ 
+# Fascism
+ fascism:0 "Fascism"
+ fascism_desc:0 "§GFascism§! is a form of radical authoritarian nationalism, characterized by dictatorial power, forcible suppression of opposition, and control of industry and commerce, that came to prominence in early 20th-century Europe."
+
+ clerical_fascism:0 "Clerical fascism"
+ clerical_fascism_desc:0 "§GClerical fascism§! is an ideology that combines the political and economic doctrines of fascism with clericalism. The term has been used to describe organizations and movements that combine religious elements with fascism."
+ 
+ metaxism: "Metaxism"
+ metaxism_desc: "§GMetaxism§! is an authoritarian nationalist ideology associated with Greek dictator Ioannis Metaxas. It called for the regeneration of the Greek nation and the establishment of a modern, culturally homogenous Greece. Metaxism disparaged liberalism, and held individual interests to be subordinate to those of the nation, seeking to mobilize the Greek people as a disciplined mass in service to the creation of a 'new Greece.'"
+ 
+ corporatism: "Corporatism"
+ corporatism_desc: "§GCorporatism§! is the organization of a society by corporate groups and agricultural, labour, military or scientific syndicates and guilds on the basis of their common interests."
+ 
+ integralism: "Integralism"
+ integralism_desc: "§GIntegralism§! is an ideology according to which a nation is an organic unity. Integralism believes in uniting the different social classes under one hierachical structure and advocates economic corporatism and trade unions."
+ 
+ legionarism: "Legionarism"
+ legionarism_desc: "§GLegionarism§! was the political ideology of the Garda de Fier (known as "Iron Guard of Romania"), as well as derivatives of it in other countries."
+ 
+ salafism: "Salafism"
+ salafism_desc: "§GSalafism§! is centered around the concept of looking back to a prior historical period in an effort to understand how the contemporary world should be ordered.They reject religious innovation or bid'ah, and support the implementation of sharia (Islamic law)."
+ 
+ rexism:0 "Rexism"
+ rexism_desc:0 "§GRexism§! is a form of radical authoritarian nationalism, characterized by dictatorial power, forcible suppression of opposition, and control of industry and commerce, that came to prominence in early 20th-century Europe."
+
+ falangism:0 "Falangism"
+ falangism_desc:0 "§GFalangism§! was the political ideology of the Falange Española de las JONS and, afterwards, of the Falange Española Tradicionalista y de las Juntas de Ofensiva Nacional Sindicalista (both known simply as the "Falange"), as well as derivatives of it in other countries."
+
+ zionism: "Zionism"
+ zionism_desc: "§GZionism§! is the national movement of the Jewish people that supports the re-establishment of a Jewish homeland in the territory defined as the historic Land of Israel (roughly corresponding to Canaan, the Holy Land, or the region of Palestine)."
+ 
+# Paternal Autocracy
+ authoritarian_democracy: "Authoritarian Democracy"
+ authoritarian_democracy_desc: "§GAuthoritarian democracy§! is an ideology that combines a strong executive power with a representative parliament and a partial democratic political system. Authoritarian democratic regimes often take a conservative stance on social issues and promote liberal-capitalist economies with limited state intervention. The aim of these regimes are to maintain national stability and provide the people both a popular and responsible government."
+ 
+ military_dictatorship:0 "Military Dictatorship"
+ military_dictatorship_desc:0 "§GMilitary Dictatorship§! is a form of government in which a country or a group of countries is ruled by one person (a dictator) or by a polity, and power (social and political) is exercised through various mechanisms to ensure that the entity's power remains strong."
+ 
+ theocracy: "Theocracy"
+ theocracy_desc: "§GTheocracy§!"
+ 
+ monarchism:0 "Monarchism"
+ monarchism_desc:0 "§GMonarchism§! is the advocacy of a monarch or monarchical rule. A monarchist is an individual who supports this form of government, independent of any specific monarch."
+
+ # Conservatism
+ social_conservatism:0 "Social Conservatism"
+ social_conservatism_desc:0 "§YSocial Conservatism§! denotes an attitude that tends to favour beliefs seen as traditional in regard to social affairs. This can include moral issues."
+ 
+ market_social_liberalism:0 "Market Liberalism"
+ market_social_liberalism_desc:0 "§YMarket Liberalism§!, also known as Classical Liberalism is a political ideology, a branch of Liberalism which advocates civil liberties under the rule of law with an emphasis on economic freedom."
+
+# Liberalism
+ social_liberalism:0 "Social Liberalism"
+ social_liberalism_desc:0 "§YSocial Liberalism§! is a political ideology that believes individual liberty requires a level of social justice. Like classical Liberalism, social Liberalism endorses a market economy and the expansion of civil and political rights and liberties, but differs in that it believes the legitimate role of the government includes addressing economic and social issues such as poverty, health care and education."
+
+# Social Dem.
+ social_democracy:0 "Social Democracy"
+ social_democracy_desc:0 "§YSocial Democracy§! is a political, social and economic ideology that supports economic and social interventions to promote social justice within the framework of a capitalist economy."
+
+ # Socialist
+ socialism:0 "Socialism"
+ socialism_desc:0 "§RSocialism§! Strives for equality and a socialist state by reformist means, democratic socialism aims to abolish or mitigate the effects of capitalism with public mandate."
+ 
+ syndicalism: "Syndicalism"
+ syndicalism_desc: "§RSyndicalists§! advocate for multiple cooperative productive units composed of specialists and representatives of workers in each field to negotiate and manage the economy. Labour unions are the potential means of both overcoming economic aristocracy and running society in the interest of informed and skilled majorities, through union democracy."
+ 
+ marhaenism: "Marhaenism"
+ marhaenism_desc: "§RMarhaenism§! emphasizes national unity, culture, and collectivist economics. It was established as an anti-capitalist and anti-imperialist ideology. It promotes democratic rights in opposition to authoritarianism, while condemning liberalism and individualism. It combines both western and eastern principles."
+ 
+ labor_zionism: "Labor Zionism"
+ labor_zionism_desc: "§RLabor Zionism§! believed that a Jewish state could only be created through the efforts of the Jewish working class settling in Palestine and constructing a state through the creation of a progressive Jewish society with rural kibbutzim and moshavim and an urban Jewish proletariat."
+  
+ arab_socialism:0 "Arab socialism"
+ arab_socialism_desc:0 "§RArab socialism§! is a political ideology based on an amalgamation of Pan-Arabism and socialism. Arab socialism is distinct from the much broader tradition of socialist thought in the Arab world, which predates Arab socialism by as much as fifty years."
+ 
+ anarcho_communism:0 "Anarcho-communism"
+ anarcho_communism_desc:0 "§RAnarcho-communism§! is a theory of anarchism which advocates the abolition of the state, capitalism, wage labour, and private property (though some strains retain respect for personal property)."
+
+ democratic_socialist:0 "Democratic Socialism"
+ democratic_socialist_desc:0 "§RDemocratic socialism§! is an ideology that advocates political democracy alongside social ownership of the means of production, often with an emphasis on democratic management of enterprises within a socialist economic system."
+ 
+ # Bolshevik-Leninism 
+ titoism:0 "Titoism"
+ titoism_desc:0 "§RTitoism§! is described as the post-World War II policies and practices associated with Josip Broz Tito during the Cold War, characterized by an opposition to the Soviet Union."
+ 
+ marxism:0 "Marxism"
+ marxism_desc:0 "§RMarx§! believed that socialism, ownership of the means of production, wealth distribution and organised production would give way to a communist stage of development, which would be classless and stateless."
+ 
+ trotskyism:0 "Trotskyism"
+ trotskyism_desc:0 "§RTrotskyism§! is the theory of Marxism as advocated by Leon Trotsky. Trotsky identified himself as an orthodox Marxist and Bolshevik-Leninist and supported founding a vanguard party of the proletariat, proletarian internationalism, and a dictatorship of the proletariat based on working-class self-emancipation and mass democracy."
+ 
+ # Marxism-Leninism
+ marxism_leninism:0 "Marxism-Leninism"
+ marxism_leninism_desc:0 "§RMarxism-Leninism§! is the political theory for the organisation of a revolutionary vanguard party and the achievement of a dictatorship of the proletariat, as a political prelude to the establishment of socialism."
+
+ stalinism:0 "Stalinism"
+ stalinism_desc:0 "§RStalinism§! is a general policy including state terror, rapid industrialisation, socialism in one country, a centralised state, collectivisation of agriculture and a cult of personality."
+ 
+ maoism:0 "Maoism"
+ maoism_desc:0 "§RRMaoism§! is a political theory derived from the teachings of the Chinese political leader Mao Zedong. Its followers are known as Maoists. Developed from the 1950s until the Deng Xiaoping reforms in the 1970s, it was widely applied as the guiding political and military ideology of the Communist Party of China (CPC)."
+
+ juche:0 "Juche"
+ juche_desc:0 "§RJuche§! is the official ideology of Korea, stating that the Korean masses are to act as the masters of the revolution and construction. It is firmly based around a cult of personality for the Kim family."

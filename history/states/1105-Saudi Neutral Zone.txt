@@ -1,0 +1,21 @@
+state={
+	id=1105
+	name="STATE_1105"
+
+	history={
+		owner = TUR
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = TUR
+		set_demilitarized_zone = no
+
+	}
+
+	provinces={
+		13308 
+	}
+	manpower=20
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

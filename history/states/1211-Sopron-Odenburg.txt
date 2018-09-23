@@ -1,0 +1,18 @@
+state={
+	id=1211
+	name="STATE_1211"
+	history={
+		owner = HUN
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = AUS
+		add_core_of = HUN
+	}
+	provinces={
+		3700 
+	}
+	manpower=3598
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

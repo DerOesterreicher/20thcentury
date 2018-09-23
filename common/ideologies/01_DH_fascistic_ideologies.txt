@@ -1,0 +1,118 @@
+ideologies = {
+##########################################
+## Fascist Ideologies 
+##########################################
+
+### National Socialism
+	national_socialist = {
+		types = {	
+			national_socialism = {}
+			national_bolshevism = {}
+			strasserism = {}
+			ultranationalism = {}
+			esoteric_national_socialism = {}
+			antisemitism = {}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+		}
+		
+		color = { 0 0 0 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_join_factions = no		
+			can_create_factions = no			
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			join_faction_tension = 0.80
+		}
+		ai_fascist = yes
+	}
+
+### Fascism
+	fascist = {	
+		types = {			
+			fascism = {}
+			clerical_fascism = {}
+			metaxism = {}
+			rexism = {}
+			corporatism = {}
+			integralism = {}
+			legionarism = {}
+			salafism = {}
+			falangism = {}
+			zionism = {}
+			antisemitism_fa = {}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+		}
+		
+		color = { 40 40 40 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_join_factions = no			
+			can_create_factions = no			
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			join_faction_tension = 0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	
+### Paternal Autocrats	
+	paternal_autocrat = {
+		types = {	
+			authoritarian_democracy = {}
+			military_dictatorship = {}
+			theocracy = {}
+			monarchism = {}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+		}
+		
+		color = { 100 100 100 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_join_factions = no			
+			can_create_factions = no			
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			join_faction_tension = 0.80
+		}
+		ai_neutral = yes
+	}
+}
